@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/sonofGod225/mk-node-project/issues"
   },
-  "homepage": "https://github.com/sonofGod225/mk-node-project#readme"
+  "homepage": "https://github.com/sonofGod225/mk-node-project#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-flash": "0.0.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.11.4"
+  }
 }
