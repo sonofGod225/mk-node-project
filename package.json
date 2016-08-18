@@ -1,0 +1,24 @@
+{
+  "name": "mk-node-project",
+  "version": "1.0.0",
+  "description": "A simple Node.js app using Express 4 with Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonofGod225/mk-node-project.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "webpack"
+  ],
+  "author": "Marius Koudou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sonofGod225/mk-node-project/issues"
+  },
+  "homepage": "https://github.com/sonofGod225/mk-node-project#readme"
+}
